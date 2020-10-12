@@ -1,4 +1,4 @@
-module github.com/torquem-ch/project-1
+module github.com/Giulio2002/hello-tg-daemon
 
 go 1.14
 
